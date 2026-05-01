@@ -41,4 +41,3 @@ Features used:
 
 
 
-Ако искаш още по-„GitHub fancy“ (badge-ове, картинки, GIF демо), кажи 😎
